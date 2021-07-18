@@ -35,7 +35,14 @@ ul {
     background-color: cyan;
   }
   .navbar input[type= text]{
-      float: right;
+    float: right;
+    float: right;
+    padding: 6px;
+    border: none;
+    margin-top: 8px;
+    margin-right: 16px;
+    margin-left: 6px;
+    font-size: 17px;
   }
  .main{
      width: 80%;
