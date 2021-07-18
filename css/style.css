@@ -31,8 +31,8 @@ ul {
   li a:hover {
       background-color: blue;
   }
-  .active {
-    background-color: cyan;
+   li a:active {
+    background-color: blue;
   }
   .navbar input[type= text]{
     float: right;
