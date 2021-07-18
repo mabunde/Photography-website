@@ -70,3 +70,8 @@ ul {
      height: 50px;
     
  }
+ .footer p {
+     text-align: inline;
+     color: green;
+     background-color: grey;
+ }
