@@ -57,3 +57,16 @@ ul {
     max-width: 100%;
     object-fit: cover;
   }
+  .footer {
+    position: relative;
+    padding: 10px 10px 0px 10px;
+    bottom: 0;
+    
+    height: 60px;
+    background-color: #333333;
+    
+}
+ .footer img {
+     height: 50px;
+    
+ }
