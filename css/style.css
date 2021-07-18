@@ -3,6 +3,8 @@ body {
 }
 h1 {
     color: green;
+    padding-left: 1%;
+    padding-right: 1%;
 
 }
 ul {
@@ -35,4 +37,23 @@ ul {
   .navbar input[type= text]{
       float: right;
   }
- 
+ .main{
+     width: 80%;
+     height: 100%;
+     background-color: white;
+     margin: auto;
+ }
+ .grid { 
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    grid-gap: 20px;
+    align-items: stretch;
+        padding-left: 2%;
+    padding-right: 2%;
+    }
+  .grid img {
+    border: 1px solid #ccc;
+    box-shadow: 2px 2px 6px 0px  rgba(0,0,0,0.3);
+    max-width: 100%;
+    object-fit: cover;
+  }
