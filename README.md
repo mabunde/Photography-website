@@ -16,5 +16,9 @@ The project is about creating a  photography website.
 -If you happen to run into a problem, reach me on solomon.sitati@student.moringaschool.com
 -Feel free to make a contribution to the code.
 ##Website Design
--<img src="/x-special/nautilus-clipboard
-  copy file:///home/moringa/Documents/Moringa_Pre_Prep_Projects/Photography-website/image/eKBMTFH2JRBRJf4gDK1MBVWd.jpg alt="pic 10"> 
+-<img src="x-special/nautilus-clipboard
+copy
+file:///home/moringa/Documents/Moringa_Pre_Prep_Projects/eKBMTFH2JRBRJf4gDK1MBVWd.jpg
+
+ alt="pic 10"> ![eKBMTFH2JRBRJf4gDK1MBVWd](https://user-images.githubusercontent.com/41706809/126139196-a7c9939d-3581-4d76-8468-af6ceab2a7d1.jpg)
+
