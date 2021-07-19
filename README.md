@@ -7,10 +7,10 @@ The project is about creating a  photography website.
 -clone the repository with HTTPS under clone with HTTPS
 -Open terminal and change the current working directory to the location you want to clone directory
 -open your terminal, type git clone then paste the URL copied from githubb and press Enter. 
--
 ##Technology used
 -CSS
 -HTML
+#bugs
 
 ##Support and Contact details
 -If you happen to run into a problem, reach me on solomon.sitati@student.moringaschool.com
