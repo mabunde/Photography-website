@@ -1,0 +1,95 @@
+body {
+    background-color: grey;
+}
+h1 {
+    color: green;
+    padding-left: 1%;
+    padding-right: 1%;
+
+}
+ul {
+    list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  }
+  li {
+      display: inline;
+      float: left;
+      border-right: 1px solid #bbb;
+
+  }
+   li a {
+      display: block;
+      color: white;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+      background-color: black;
+  }
+  li a:hover {
+      background-color: blue;
+  }
+   .active a:active {
+    background-color: blue;
+  }
+  .navbar input[type= text]{
+    float: right;
+    padding: 6px;
+    border: none;
+    margin-top: 8px;
+    margin-right: 16px;
+    margin-left: 6px;
+    font-size: 17px;
+  }
+ .main{
+     width: 80%;
+     height: 100%;
+     background-color: white;
+     margin: auto;
+     border-radius: 10px;
+ }
+ .grid { 
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    grid-gap: 20px;
+    align-items: stretch;
+        padding-left: 2%;
+    padding-right: 2%;
+    }
+  .grid img {
+    border: 1px solid #ccc;
+    box-shadow: 2px 2px 6px 0px  rgba(0,0,0,0.3);
+    max-width: 100%;
+    object-fit: cover;
+  }
+  .footer {
+    position: relative;
+    padding: 10px 10px 0px 10px;
+    bottom: 0;
+    
+    height: 60px;
+    background-color: #333333;
+    
+}
+ .footer img {
+     height: 50px;
+     display: inline;
+    
+ }
+ .final {
+     background-color: black;
+     color: white;
+     margin: 1%;
+     font-size: larger;
+     border-radius: 15px;
+ }
+ form {
+     justify-content: center;
+     text-align: center;
+     padding: 20px;
+     margin: 5px;
+     border: 2px;
+
+ }
