@@ -1,3 +1,4 @@
+![eKBMTFH2JRBRJf4gDK1MBVWd](https://user-images.githubusercontent.com/41706809/126139652-a327d5b0-1fae-4f7e-b539-69344c832c57.jpg)
 # Photography-website
 The project is about creating a  photography website.
 -This website is about creating a collection of my favorite pictures and addidng a section for biography. 
