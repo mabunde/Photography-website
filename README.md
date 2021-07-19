@@ -15,3 +15,6 @@ The project is about creating a  photography website.
 ##Support and Contact details
 -If you happen to run into a problem, reach me on solomon.sitati@student.moringaschool.com
 -Feel free to make a contribution to the code.
+##Website Design
+-<img src="/x-special/nautilus-clipboard
+  copy file:///home/moringa/Documents/Moringa_Pre_Prep_Projects/Photography-website/image/eKBMTFH2JRBRJf4gDK1MBVWd.jpg alt="pic 10"> 
